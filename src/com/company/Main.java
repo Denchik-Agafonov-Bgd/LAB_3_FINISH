@@ -10,7 +10,7 @@ public class Main {
         int value=0;
         do {
             System.out.println("Введите количество инвентаря");
-            System.out.println("Введите количество инвентаря");
+
 
             value = getIntFromConsole(scanner, scanner.next());
 
